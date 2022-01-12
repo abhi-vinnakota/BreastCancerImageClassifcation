@@ -1,1 +1,1 @@
-# BreastCancerImageClassifcation
+# Breast Cancer Image Classification
